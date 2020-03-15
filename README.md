@@ -12,11 +12,17 @@ Factors affecting the quality of the Red Wine are: (Inputs given to the Classifi
 9.	pH
 10.	sulphates
 11.	alcohol
+
+
 Quality predicted (Output from the Classifier) :Range [3,8]
+
+
 Categorical output: 
 1.	Poor (quality<5)
 2.	Good (5<quality<7)
 3.	Excellent (quality>7)
+
+
 Binary classes:
 1.	Bad (quality=3,4,5)
 2.	Good (quality=6,7,8)
