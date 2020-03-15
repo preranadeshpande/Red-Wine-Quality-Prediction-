@@ -1,23 +1,22 @@
 # Red_Wine_Project
  
 Factors affecting the quality of the Red Wine are: (Inputs given to the Classifiers)
-•	fixed acidity
-•	volatile acidity
-•	citric acid
-•	residual sugar
-•	chlorides
-•	free sulphur dioxide
-•	total sulphur dioxide
-•	density
-•	pH
-•	sulphates
-•	alcohol
-Quality predicted: (Output from the Classifier: )
-•	Range [3,8]
+1.	fixed acidity
+2.	volatile acidity
+3.	citric acid
+4.	residual sugar
+5.	chlorides
+6.	free sulphur dioxide
+7.	total sulphur dioxide
+8.	density
+9.	pH
+10.	sulphates
+11.	alcohol
+Quality predicted (Output from the Classifier) :Range [3,8]
 Categorical output: 
-•	Poor (quality<5)
-•	Good (5<quality<7)
-•	Excellent (quality>7)
+1.	Poor (quality<5)
+2.	Good (5<quality<7)
+3.	Excellent (quality>7)
 Binary classes:
-•	Bad (quality=3,4,5)
-•	Good (quality=6,7,8)
+1.	Bad (quality=3,4,5)
+2.	Good (quality=6,7,8)
