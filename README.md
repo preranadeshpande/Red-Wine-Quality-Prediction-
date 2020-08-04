@@ -1,4 +1,4 @@
-# Red Wine Project
+# Red Wine Quality Prediction
  
 ## Factors affecting the quality of the Red Wine are: (Inputs given to the Classifiers)
 | S.No | Attribute Name |
